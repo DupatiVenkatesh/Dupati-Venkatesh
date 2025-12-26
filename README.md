@@ -1,7 +1,7 @@
-#Tandemloop Screening Test Solutions
+## Tandemloop Screening Test Solutions
 Candidate Name: Dupati Venkatesh  
 Position: Full Stack Developer  
-Language Used: Python 3
+Language Used: Python 
 
 ## Project Structure
 - Problem-1.py - Calculator class implementation
